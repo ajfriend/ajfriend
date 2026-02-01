@@ -1,2 +1,2 @@
-[ajfriend.com]()
+[ajfriend.com](https://ajfriend.com)
 
