@@ -1,2 +1,2 @@
-[ajfriend.github.io]()
+[ajfriend.com]()
 
